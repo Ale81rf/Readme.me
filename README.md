@@ -4,7 +4,7 @@
 E-book com 10 páginas referente a informações sobre educação financeira.
 
 ## 🤖 Tecnologias Utilizadas
-- GAMMA.APP
+- IA Generativa **[GAMM.APP](https://gamma.app/)** para roteirização
 
 ## 🧐 Processo de Criação
 Utilizei o GAMMA.APP para criar o conteúdo do e-book.
