@@ -1,16 +1,16 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# E-book Educação Financeira para Adolescentes
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+E-book com 10 páginas referente a informações sobre educação financeira.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- GAMMA.APP
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o GAMMA.APP para criar o conteúdo do e-book.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado foi um e-book simples e objetivo e com linguagem clara passando algumas informações iniciais sobre educação financeira.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Criando esse e-book, ficou claro que cada vez mais a IA participará e ajudará no dia-dia das pessoas.
